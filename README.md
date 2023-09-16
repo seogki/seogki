@@ -2,6 +2,7 @@
 
 I am Front-End Developer from Korea
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seogki&layout=donut)](https://github.com/seogki/github-readme-stats)
 
 
 <!--
