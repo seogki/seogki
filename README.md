@@ -1,8 +1,20 @@
-### About MySelf
+### 🔭 About MySelf
 
-I am Front-End Developer from Korea
+I am Front-End Developer from Korea.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seogki&layout=donut)](https://github.com/seogki/github-readme-stats)
+I have started as android, but i am front-end developer now.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seogki&layout=compact)
+
+
+--
+
+
+### 🔨 My Stack
+
+- Front-End: <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
+- Back-End: <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
 <!--
