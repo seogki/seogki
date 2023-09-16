@@ -1,4 +1,8 @@
-### Hi there 👋
+### About MySelf
+
+I am Front-End Developer from Korea
+
+
 
 <!--
 **seogki/seogki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
