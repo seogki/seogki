@@ -1,8 +1,6 @@
 ### 🔭 About MySelf
 
 #### Welcome to my Github. I am front-end developer, i used to be android developer.
-![Seogki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seogki&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seogki&layout=compact&theme=dracula)
 
 ---
 ### 🔨 My Skill Set
